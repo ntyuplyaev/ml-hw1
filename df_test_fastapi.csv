@@ -1,0 +1,6 @@
+,name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats
+0,Mahindra Xylo E4 BS IV,2010,168000,Diesel,Individual,Manual,First Owner,14.0 kmpl,2498 CC,112 bhp,260 Nm at 1800-2200 rpm,7.0
+1,Tata Nexon 1.5 Revotorq XE,2017,25000,Diesel,Individual,Manual,First Owner,21.5 kmpl,1497 CC,108.5 bhp,260Nm@ 1500-2750rpm,5.0
+2,Honda Civic 1.8 S AT,2007,218463,Petrol,Individual,Automatic,First Owner,12.9 kmpl,1799 CC,130 bhp,172Nm@ 4300rpm,5.0
+3,Honda City i DTEC VX,2015,173000,Diesel,Individual,Manual,First Owner,25.1 kmpl,1498 CC,98.6 bhp,200Nm@ 1750rpm,5.0
+4,Tata Indica Vista Aura 1.2 Safire BSIV,2011,70000,Petrol,Individual,Manual,Second Owner,16.5 kmpl,1172 CC,65 bhp,96  Nm at 3000  rpm ,5.0
